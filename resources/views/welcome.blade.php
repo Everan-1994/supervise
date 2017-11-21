@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Supervise
+                    Supervise Let'go!!!
                 </div>
 
                 <div class="links">
